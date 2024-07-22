@@ -1,3 +1,4 @@
+package Basics;
 public class Palindrome {
     public static void main(String args[]){
         isPal(123454321);

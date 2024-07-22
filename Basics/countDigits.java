@@ -1,3 +1,4 @@
+package Basics;
 public class countDigits {
     public static void main(String args[]){
         countDigit(123456);
